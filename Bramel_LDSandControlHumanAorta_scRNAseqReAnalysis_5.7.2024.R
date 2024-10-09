@@ -2,7 +2,7 @@
 title: "Re-analysis of LDS Human Aortic Samples from Pedroza et al. 2023 scRNAseq Analysis includes ProjectR and CoGAPS"
 #adapted from https://satijalab.org/seurat/ 
 #reference for Pedroza et al. 2023 https://doi.org/10.1016/j.jtcvs.2023.07.023 
-authors: "Emily Bramel, Wendy A. Camejo Espinoza, Jacob T. Mitchell"
+authors: "Emily Bramel, Wendy A. Espinoza Camejo, Jacob T. Mitchell"
 date: "last updated 5/7/24" 
 ---
 ## Load required packages
