@@ -1,7 +1,7 @@
 ---
 title: "16wk Tgfbr1^M318R/+ vs WT Seurat scRNAseq Analysis (includes RPCA batch integration)"
 #adapted from https://satijalab.org/seurat/ 
-author: "Emily Bramel, Wendy A. Camejo Espinoza, Tyler J. Creamer"
+author: "Emily Bramel, Wendy A. Espinoza Camejo, Tyler J. Creamer"
 date last updated: "7/24/24" 
 ---
 ## Load required packages
