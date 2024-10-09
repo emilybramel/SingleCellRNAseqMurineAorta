@@ -21,7 +21,7 @@ date: "last updated 9/11/23"
 
 #if (!require("BiocManager", quietly = TRUE))
 #install.packages("BiocManager")
-BiocManager::install("Nebulosa")
+#BiocManager::install("Nebulosa")
 
 #Load Libraries
 library(projectR)
